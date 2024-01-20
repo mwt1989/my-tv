@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 =tvg-logo="https://en.m.wikipedia.org/wiki/Myanmar_National_TV" group-title=" Mntv",MNTV
+#EXTVLCOPT:http-referer-https://www.myanmartvchannels.com/
+l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?
